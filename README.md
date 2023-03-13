@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kwnspir
 - 👀 I’m interested in embedded systems, aerospace and defense, software development and R&D
-- 🌱 I’m currently learning parallel programming and DSP
+- 🌱 I’m currently learning rust
